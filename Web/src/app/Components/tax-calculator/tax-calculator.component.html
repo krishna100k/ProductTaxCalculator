@@ -1,0 +1,64 @@
+<div class="modal-container">
+    <div class="modal-left">
+      <div class="upper-left-container">
+        <div class="select-container">
+          <label>Country</label>
+          <select disabled="true" >
+            <option>United States</option>
+          </select>
+        </div>
+        <div class="select-container">
+          <label>State <span class="required">*</span></label>
+          <select [value]="selectedState" (change)="selectState($event)" >
+            <option [defaultSelected]="true" [disabled]="true">Select State</option>
+            <option *ngFor="let state of states">{{state.name}}</option>
+          </select>
+        </div>
+        <div class="select-container">
+          <label>Zip Code <span class="required">*</span></label>
+          <input [type]="'number'" [(ngModel)]="zipCode">
+        </div>
+        <button [disabled]="loading" (click)="getTaxes()" class="button">{{loading ? "Loading..." : "Get Tax Rates"}}</button>
+      </div>
+      <div class="lower-left-container">
+        <div class="select-container">
+          <label>Tax <span class="required">*</span></label>
+          <select [value]="selectedTax" (change)="selectTax($event)">
+            <option [defaultSelected]="true" [disabled]="true">Select Tax</option>
+            <option *ngFor="let tax of taxRatesList">{{tax.name}}</option>
+          </select>
+          <small *ngIf="selectedTaxRate != undefined && selectedTaxRate != null"> Selected Tax Rate - <span>{{selectedTaxRate}}</span></small>
+        </div>
+        <div class="select-container">
+          <label>Product Name </label>
+          <input [(ngModel)]="productName" type="text">
+        </div>
+        <div class="select-container">
+          <label>Product Cost <span class="required">*</span></label>
+          <input type="number"  [(ngModel)]="productCost">
+        </div>
+        <button (click)="calculateTax()" class="button">Calculate Product Tax</button>
+      </div>
+    </div>
+    <div class="modal-right">
+      <div class="right-container">
+        <div class="right-container-one">
+        <div>
+          <p class="amount-title">Product Cost</p>
+          <p class="amount">$ {{productCost}}</p>
+        </div>
+        <div>
+          <p class="amount-title">Tax Amount</p>
+          <p class="amount">$ {{taxAmount}}</p>
+        </div>
+      </div>
+      <div class="right-container-two">
+        <div >
+          <p class="amount-title">Total Cost</p>
+          <p class="amount">$ {{totalTaxCalculatedAmount}}</p>
+        </div>
+      </div>
+      </div>
+      <button (click)="reset()" class="reset-button">Reset</button>
+    </div>
+  </div>

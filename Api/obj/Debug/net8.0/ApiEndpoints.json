@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ProductTaxCalculator.Controllers.States",
+    "Method": "GetStates",
+    "RelativePath": "api/States/GetStates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductTaxCalculator.Controllers.Tax",
+    "Method": "GetTaxRatesByLocation",
+    "RelativePath": "api/Tax/GetTaxRatesByLocation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "zipCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

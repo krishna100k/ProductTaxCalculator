@@ -1,0 +1,110 @@
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\appsettings.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\ProductTaxCalculator.staticwebassets.endpoints.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\ProductTaxCalculator.exe
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\ProductTaxCalculator.deps.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\ProductTaxCalculator.runtimeconfig.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\ProductTaxCalculator.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\ProductTaxCalculator.pdb
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ProductTaxCalculator.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ProductTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ProductTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ProductTaxCalculator.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ProductTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ProductTaxCalculator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ProductTaxCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\scopedcss\bundle\ProductTaxCalculator.styles.css
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\staticwebassets\msbuild.ProductTaxCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\staticwebassets\msbuild.ProductTaxCalculator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductTaxCalculator.props
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductTaxCalculator.props
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductTaxCalculator.props
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ProductT.09906034.Up2Date
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ProductTaxCalculator.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\refint\ProductTaxCalculator.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ProductTaxCalculator.pdb
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ProductTaxCalculator.genruntimeconfig.cache
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\obj\Debug\net8.0\ref\ProductTaxCalculator.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\bin\Debug\net8.0\RestSharp.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\ProductTaxCalculator.staticwebassets.endpoints.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\ProductTaxCalculator.exe
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\ProductTaxCalculator.deps.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\ProductTaxCalculator.runtimeconfig.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\ProductTaxCalculator.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\ProductTaxCalculator.pdb
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\RestSharp.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ProductTaxCalculator.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ProductTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ProductTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ProductTaxCalculator.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ProductTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ProductTaxCalculator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ProductTaxCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\scopedcss\bundle\ProductTaxCalculator.styles.css
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\staticwebassets\msbuild.ProductTaxCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\staticwebassets\msbuild.ProductTaxCalculator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductTaxCalculator.props
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductTaxCalculator.props
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductTaxCalculator.props
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ProductT.09906034.Up2Date
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ProductTaxCalculator.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\refint\ProductTaxCalculator.dll
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ProductTaxCalculator.pdb
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ProductTaxCalculator.genruntimeconfig.cache
+C:\Users\krish\OneDrive\Documents\Programming Journey formerly Development\Projects\ProductTaxCalculator\Api\obj\Debug\net8.0\ref\ProductTaxCalculator.dll
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\appsettings.json
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\ProductTaxCalculator.exe
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\ProductTaxCalculator.deps.json
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\ProductTaxCalculator.runtimeconfig.json
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\ProductTaxCalculator.dll
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\ProductTaxCalculator.pdb
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\RestSharp.dll
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ProductTaxCalculator.csproj.AssemblyReference.cache
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ProductTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ProductTaxCalculator.AssemblyInfoInputs.cache
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ProductTaxCalculator.AssemblyInfo.cs
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ProductTaxCalculator.csproj.CoreCompileInputs.cache
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ProductTaxCalculator.MvcApplicationPartsAssemblyInfo.cs
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ProductTaxCalculator.MvcApplicationPartsAssemblyInfo.cache
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\staticwebassets\msbuild.ProductTaxCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductTaxCalculator.props
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductTaxCalculator.props
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductTaxCalculator.props
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\scopedcss\bundle\ProductTaxCalculator.styles.css
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ProductTaxCalculator.csproj.CopyComplete
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ProductTaxCalculator.dll
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\refint\ProductTaxCalculator.dll
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ProductTaxCalculator.pdb
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ProductTaxCalculator.genruntimeconfig.cache
+D:\Client Interview Projects\TaxRateCalculation\zip\Api\obj\Debug\net8.0\ref\ProductTaxCalculator.dll

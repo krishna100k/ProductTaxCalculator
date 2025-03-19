@@ -1,0 +1,6 @@
+@ProductTaxCalculator_HostAddress = http://localhost:5084
+
+GET {{ProductTaxCalculator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
