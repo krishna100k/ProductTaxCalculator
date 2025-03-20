@@ -7,10 +7,10 @@ namespace ProductTaxCalculator.Controllers
 {
     [ApiController]
     [Route("api/Tax")]
-    public class Tax : ControllerBase
+    public class TaxController : ControllerBase
     {
         private TaxService _taxService;
-        public Tax(TaxService taxService)
+        public TaxController(TaxService taxService)
         {
             _taxService = taxService;
         }

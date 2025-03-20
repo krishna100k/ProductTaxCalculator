@@ -12,10 +12,10 @@ import { TaxService } from '../../Services/tax.service';
 export class TaxCalculatorComponent implements OnInit{
   loading : boolean = false
   states : State[] = [];
-  selectedState = "";
+  selectedState = "Select State";
   zipCode = "";
   taxRateResponse !: TaxRateByLocationModel | undefined
-  selectedTax : string = ""
+  selectedTax : string = "Select Tax"
   selectedTaxRate : any
   totalTaxCalculatedAmount = "0"
   taxAmount  = "0"
@@ -83,11 +83,15 @@ export class TaxCalculatorComponent implements OnInit{
 
   getTaxes(){
     if(this.zipCode.trim() === "") return alert ("Zip Code is Required !!!");
-    if(this.selectedState == "" ) return alert ("State is Required !!!");
+    if(this.selectedState == "Select State" ) return alert ("State is Required !!!");
     this.loading = true
     this.taxService.getTaxRatesByLocation(this.zipCode.trim()).subscribe({
       next : (res) => {
         this.taxRateResponse = res
+        this.productCost = "0";
+        this.productName = "";
+        this.totalTaxCalculatedAmount = "0";
+        this.taxAmount = "0";
         this.selectedTaxRate = undefined;
         this.selectedTax = "City Rate";
         this.selectTaxRate(this.selectedTax);
@@ -102,6 +106,7 @@ export class TaxCalculatorComponent implements OnInit{
       },
        error : (err) => {
         this.loading = false
+        this.reset();
         if(err?.error.statusCode == 404){
           return alert("Zip code is not valid for the specified state.")
         }
@@ -123,8 +128,8 @@ export class TaxCalculatorComponent implements OnInit{
     this.productCost = "0";
     this.productName = "";
     this.taxAmount = "0";
-    this.selectedState = "";
-    this.selectedTax = "";
+    this.selectedState = "Select State";
+    this.selectedTax = "Select Tax";
     this.selectedTaxRate = undefined;
     this.zipCode = "";
     this.totalTaxCalculatedAmount = "0";

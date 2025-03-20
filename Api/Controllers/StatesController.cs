@@ -6,10 +6,10 @@ namespace ProductTaxCalculator.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class States : ControllerBase
+    public class StatesController : ControllerBase
     {
         private readonly StateService _stateService;
-        public States(StateService stateService)
+        public StatesController(StateService stateService)
         {
             _stateService = stateService;
         }

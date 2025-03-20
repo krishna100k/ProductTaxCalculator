@@ -1,14 +1,14 @@
 export interface TaxRateByLocationModel {
   city: string;
-  cityRate: number;
-  combinedDistrictRate: number;
-  combinedRate: number;
+  cityRate: string;
+  combinedDistrictRate: string;
+  combinedRate: string;
   country: string;
-  countryRate: number;
+  countryRate: string;
   county: string;
-  countyRate: number;
+  countyRate: string;
   freightTaxable: boolean;
   state: string;
-  stateRate: number;
+  stateRate: string;
   zip: string;
 }
